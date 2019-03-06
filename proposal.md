@@ -7,5 +7,5 @@ I thought of this idea when I was working on my slack bot project  and came acro
 
 version 1/mvp of this project or mvp just get's the data and displays it to the termianl.
 
-version 2 will be able to persit the data it collects into  postgress db or mongodb. 
+version 2 will be able to persit the data it collects into  postgress db or mongodb . 
 
