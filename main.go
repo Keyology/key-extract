@@ -11,7 +11,7 @@ import (
 func main() {
 	reader := bufio.NewReader(os.Stdin)
 	for {
-		fmt.Print("$Keyextract ")
+		fmt.Print("$Keyextract")
 		cmdString, err := reader.ReadString('\n')
 		if err != nil {
 			fmt.Fprintln(os.Stderr, err)
@@ -32,7 +32,7 @@ func runCommand(commandStr string) error {
 	case "start":
 		fmt.Println("Welcome to key extract please enter the command extract followed by the link")
 	case "extract":
-		fmt.Println("***THIS IS ARGS:***", arrCommandStr[1:])
+		// fmt.Println("***THIS IS ARGS:***", arrCommandStr[1:])
 		fmt.Println("extracting site....")
 		link := arrCommandStr[1:]
 		result := strings.Join(link, "")
