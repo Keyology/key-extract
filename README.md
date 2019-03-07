@@ -8,7 +8,8 @@ once the project is running enter the command `extract` followed by the link.
 
 **_Example_**
 
-```$keyextract extract <your website link here>
+```
+$keyextract extract <your website link here>
 
 ```
 
