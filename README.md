@@ -4,9 +4,12 @@
 
 How to install:
 
+run
+
 ```
-run git clone https://github.com/Keyology/key-extract.git inside your go workspace
+ git clone https://github.com/Keyology/key-extract.git 
 ```
+inside your go workspace
 
 How to use - run the code by entering:
 
