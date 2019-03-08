@@ -2,7 +2,7 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/Keyology/key-extract)](https://goreportcard.com/report/github.com/Keyology/key-extract)
 
-How to install:
+## How to install:
 
 run
 
@@ -11,9 +11,14 @@ run
 ```
 inside your go workspace
 
-How to use - run the code by entering:
+## How to use:
+
+run the code by entering:
 
 `./main`
+
+inside the project directory
+
 
 once the project is running enter the command `extract` followed by the link.
 
@@ -41,7 +46,20 @@ $Keyextract
 
 How to stop the application enter `exit`
 
-social:
+
+built with
+
+
+```
+"bufio"
+	]"fmt"
+	"key-extract/extract"
+	"os"
+	"os/exec"
+	"strings"
+```
+
+## Social
 
 [Twitter](https://twitter.com/Keyology1)
 [myWebsite](https://tinyurl.com/yc39f7f4)
