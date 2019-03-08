@@ -1,5 +1,13 @@
 # keyextract
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/Keyology/key-extract)](https://goreportcard.com/report/github.com/Keyology/key-extract)
+
+How to install:
+
+```
+run git clone https://github.com/Keyology/key-extract.git inside your go workspace
+```
+
 How to use - run the code by entering:
 
 `./main`
@@ -28,8 +36,9 @@ $Keyextract
 
 ```
 
-How to install -
+How to stop the application enter `exit`
 
-social -
+social:
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/Keyology/key-extract)](https://goreportcard.com/report/github.com/Keyology/key-extract)
+[Twitter](https://twitter.com/Keyology1)
+[myWebsite](https://tinyurl.com/yc39f7f4)
